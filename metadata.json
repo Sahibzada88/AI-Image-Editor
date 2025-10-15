@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Editor",
+  "description": "Upload an image and use a text prompt to describe your desired edits. Powered by Gemini's nano banana model, this app brings your creative vision to life.",
+  "requestFramePermissions": []
+}
